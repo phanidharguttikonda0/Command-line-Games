@@ -1,1 +1,3 @@
-Creating a Command line tic tac toe game
+Creating Command Line games that includes
+-> Tic Tac Toe
+-> Hangman 
